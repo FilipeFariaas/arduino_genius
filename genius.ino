@@ -21,7 +21,7 @@
 
 // ----- GAME LENGTH -----
 
-#define SEQUENCE 3
+#define SEQUENCE 20
 
 // ----- VARIABLES -----
 
